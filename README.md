@@ -34,7 +34,7 @@ Built with Python, OpenAI Function Calling, and Azure Database for MySQL Flexibl
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mysql-ai-agent.git
+git clone https://github.com/FarahAbdo/mysql-ai-agent.git
 cd mysql-ai-agent
 ```
 
